@@ -7,16 +7,16 @@
  * - change the name of the class definition to the name of your sketch
  * - change the name of the class referenced in the call to PApplet.main()
  * - override settings(), setup(), draw() and any other methods of PApplet
- * - the size() method must be called in settings() rather than in setup()
+ * - tip: size() must be called in settings() rather than in setup()
  * 
  */
 
 import processing.core.PApplet;
 
-public class PTemplate extends PApplet {
+public class P00_PTemplate extends PApplet {
 
 	public static void main(String[] args) {
-		PApplet.main(new String[] { "PTemplate" });
+		PApplet.main(new String[] { "P00_PTemplate" });
 	}
 
 	public void settings() {

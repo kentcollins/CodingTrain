@@ -6,7 +6,7 @@
 
 import processing.core.PApplet;
 
-public class PerlinNoiseTimeLapse extends PApplet {
+public class P024a_PerlinNoiseTimeLapse extends PApplet {
 
 	int numRows, numCols;
 	int scale;
@@ -14,7 +14,7 @@ public class PerlinNoiseTimeLapse extends PApplet {
 	float zOffset;
 
 	public static void main(String[] args) {
-		PApplet.main(new String[] { "PerlinNoiseTimeLapse" });
+		PApplet.main(new String[] { "P024a_PerlinNoiseTimeLapse" });
 	}
 
 	public void settings() {

@@ -10,7 +10,7 @@
 import processing.core.PApplet;
 import processing.core.PVector;
 
-public class PerlinNoiseFlowField extends PApplet {
+public class P024_PerlinNoiseFlowField extends PApplet {
 
 	Particle[] particles;
 	int scale;
@@ -21,7 +21,7 @@ public class PerlinNoiseFlowField extends PApplet {
 	boolean colorize;
 
 	public static void main(String[] args) {
-		PApplet.main(new String[] { "PerlinNoiseFlowField" });
+		PApplet.main(new String[] { "P024_PerlinNoiseFlowField" });
 	}
 
 	public void settings() {
