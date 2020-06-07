@@ -13,10 +13,10 @@
 
 import processing.core.PApplet;
 
-public class P00_PTemplate extends PApplet {
+public class P000_PTemplate extends PApplet {
 
 	public static void main(String[] args) {
-		PApplet.main(new String[] { "P00_PTemplate" });
+		PApplet.main(new String[] { "P000_PTemplate" });
 	}
 
 	public void settings() {
