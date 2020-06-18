@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/Applications/Processing.app/Contents/Java/core.jar" sourcepath="/Users/kentc14/.gradle/caches/modules-2/files-2.1/org.processing/core/3.3.6/12b92aa513a0fc9c65cf00163956afa8a0123bc0/core-3.3.6-sources.jar"/>
-	<classpathentry kind="output" path="bin"/>
-</classpath>
